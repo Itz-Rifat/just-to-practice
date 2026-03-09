@@ -1,6 +1,10 @@
 .for{
     text-align: center;
+    
 }
-#ok{
+/* #ok{
     background-color: pink;
+} */
+div{
+    background-color: tomato;
 }
